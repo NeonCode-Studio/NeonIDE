@@ -32,7 +32,7 @@ NeonIDe is a native HTML code editor developed in C++ and Qt 4.7 for Symbian dev
 
 ## Version
 
-0.1.0
+1.0.0
 
 ## Project
 

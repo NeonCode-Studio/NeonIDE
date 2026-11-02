@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="128" height="128"
+     viewBox="0 0 128 128">
+
+    <!-- Background -->
+    <rect width="128" height="128"
+          rx="26" fill="#101820"/>
+
+    <!-- HTML brackets -->
+    <path d="M43 39 L20 64 L43 89"
+          fill="none"
+          stroke="#39FF88"
+          stroke-width="9"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M85 39 L108 64 L85 89"
+          fill="none"
+          stroke="#39FF88"
+          stroke-width="9"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <!-- Slash -->
+    <path d="M74 31 L54 97"
+          fill="none"
+          stroke="#36BFFF"
+          stroke-width="8"
+          stroke-linecap="round"/>
+
+</svg>
